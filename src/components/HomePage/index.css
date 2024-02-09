@@ -1,0 +1,30 @@
+.container {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.heading {
+  color: aliceblue;
+}
+
+.button1 {
+  border-radius: 10px;
+  background-color: darkcyan;
+  color: whitesmoke;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 0px;
+  margin: 5px;
+}
+
+.button2 {
+  background-color: transparent;
+  color: white;
+  border: 0px;
+}
